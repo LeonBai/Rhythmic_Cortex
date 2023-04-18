@@ -12,6 +12,6 @@
 ## Included files
 
 1. Code snippet for running the temporal de-correlation and harvest the intrinsic frequency. 
-2. Code snippet for running clustering analysis to break  the spectrum (264) into meaningful 6 clusters
+2. To be announced... 
 
 
